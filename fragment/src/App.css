@@ -1,0 +1,12 @@
+
+.heading{
+   color: maroon;
+   justify-content: center;
+   display: flex;
+}
+.maincontainer{
+  margin: 50px;
+}
+.ul-style{
+  border-radius: 10px;
+}
